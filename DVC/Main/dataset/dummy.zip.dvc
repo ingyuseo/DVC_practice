@@ -1,0 +1,5 @@
+outs:
+- md5: dd4d1c594c6bf1370985289ff90db492
+  size: 200693588
+  hash: md5
+  path: dummy.zip
